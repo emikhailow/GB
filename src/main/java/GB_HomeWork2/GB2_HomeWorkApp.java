@@ -10,6 +10,7 @@ public class GB2_HomeWorkApp {
         printStringNTimes("Эта строка будет выведена 5 раз", 5);
         System.out.println(isLeapYear(800));
 
+
     }
 
     public static boolean isBetween10And20(int a, int b){
