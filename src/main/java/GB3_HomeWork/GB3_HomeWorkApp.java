@@ -14,7 +14,7 @@ public class GB3_HomeWorkApp {
         Task5(5, 23);
         Task6(10, 100);
         Task7(new int[] {1,1,1});
-        Task8(12, -1);
+        Task8(6, 2);
     }
 
     public static void Task1(int n) {
