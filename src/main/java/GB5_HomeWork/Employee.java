@@ -10,7 +10,7 @@ public class Employee {
     private int age;
 
     public static boolean isOlderThan(Employee employee, int age){
-        return employee.age > age;
+        return employee.getAge() > age;
     }
 
     @Override
